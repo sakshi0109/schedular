@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "schedular",
+    "build": "schedular-8d61c"
+  },
+  "targets": {}
+}
